@@ -62,7 +62,6 @@ code {
   border-color: #ffffff;
   color: #ffffff;
   border: 1px solid #ffffff;
-
 }
 
 
@@ -84,4 +83,15 @@ code {
   color: #ffffff;
   border-color: #ffffff;
   cursor: pointer;
+}
+
+
+
+
+.cold {
+  background-color: rgb(28, 119, 255);
+}
+
+.hot {
+  background-color: orangered;
 }
